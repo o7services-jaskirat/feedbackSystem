@@ -1,0 +1,100 @@
+{
+    "qualities":[
+        {
+            "id":2,
+            "quality":"The instructor had a positive attitude towards the students."
+        },
+        {
+            "id":3,
+            "quality":"The instructor was enthusiastic about teaching."
+        },
+        {
+            "id":4,
+            "quality":"The instructor explained things clearly."
+        },
+        {
+            "id":5,
+            "quality":"The instructor presented examples to clarify points."
+        },
+        {
+            "id":6,
+            "quality":"The instructor's voice was audible."
+        },
+        {
+            "id":7,
+            "quality":"The instructor maintained an eye contact with students."
+        },
+        {
+            "id":8,
+            "quality":"The instructor stimulated my interest in the subject matter."
+        },
+        {
+            "id":9,
+            "quality":"The instructor introduced a new and interesting way of teaching."
+        },
+        {
+            "id":10,
+            "quality":"The instructor related new ideas to familiar concepts."
+        },
+        {
+            "id":11,
+            "quality":"The instructor encouraged student input and participation during classes."
+        }
+
+    ],
+    "subjects":[
+        {
+            "id":17,
+            "name":"FLAT",
+            "code":"CSE 401",
+            "t_name":"Er.Harpreet kaur",
+            "sem":"7th",
+            "status":false
+        },
+         {
+            "id":18,
+            "name":"WC",
+            "sem":"7th",
+            "code":"CSE415",
+             "t_name":"Er. Gurpreet Singh",
+             "status":false
+
+        },
+         {
+            "id":19,
+            "name":"CI",
+            "sem":"7th",
+            "code":"CSE403",
+             "t_name":"Er. Gurpreet Singh ",
+             "status":false
+
+        },
+         {
+            "id":20,
+             "name":"TWP",
+            "sem":"7th",
+            "code":"Eng 401",
+             "t_name":"Mrs.Vasuda",
+             "status":false
+
+        },
+         {
+            "id":21,
+            "name":"MGT",            
+            "sem":"7th",
+            "code":"MGT 471",
+             "t_name":"Ms.Gurdeep kaur",
+             "status":false
+
+        },
+         {
+            "id":22,
+            "name":"MM",
+            "sem":"7th",
+            "code":"CSE411",
+            "t_name":"Er.Gurjit kaur",
+            "status":false
+
+        }
+    ]
+}
